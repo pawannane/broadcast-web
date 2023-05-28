@@ -442,8 +442,9 @@ header .wrapper {
 .img-section-container-3 .wrapper {
   max-width: 100%;
   width: 100%;
-  padding: 90px 0;
+  padding: 90px 5%;
   background-color: #131c22;
+  box-sizing: border-box;
   text-align: center;
 }
 
