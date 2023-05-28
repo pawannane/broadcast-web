@@ -384,7 +384,8 @@ header .wrapper {
   max-width: 100%;
   width: 100%;
   background-color: #172631;
-  padding: 100px 0;
+  padding: 100px 5%;
+   box-sizing: border-box;
 }
 
 .img-section-container-2 p {
